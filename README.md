@@ -1,8 +1,8 @@
 # Cardify
 
-+Cardify es una librería de jQuery que te permite sobreponer texto en una imagen al pasar el mouse sobre ella.
++ Cardify es una librería de jQuery que te permite sobreponer texto en una imagen al pasar el mouse sobre ella.
 
-![image](hhttps://media.giphy.com/media/xThtaygOxYCxhrKEgw/giphy.gif)
+![image](https://media.giphy.com/media/xThtaygOxYCxhrKEgw/giphy.gif)
 
 ## Demo
 
