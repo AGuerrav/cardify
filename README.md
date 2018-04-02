@@ -9,6 +9,5 @@
 https://aguerrav.github.io/demo-cardify/
 
 
-## Desarrollado
-
-Para Laboratoria
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
